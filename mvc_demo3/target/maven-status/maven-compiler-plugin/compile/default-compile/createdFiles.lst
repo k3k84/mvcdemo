@@ -1,0 +1,6 @@
+com\it\controller\MyController2.class
+com\it\controller\MyController.class
+com\it\interceptor\MyInterceptor.class
+com\it\interceptor\SensitiveWordInterceptor.class
+com\it\controller\MyController3.class
+com\it\interceptor\MyInterceptor2.class
